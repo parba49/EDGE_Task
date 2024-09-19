@@ -1,0 +1,107 @@
+body{
+    background-image:url('images.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.x{
+    text-align: center;
+   background-color: rgb(171, 219, 148);
+    margin: 60px 350px;
+   padding: 10px;
+    height: 500px;
+    border: 3px solid;
+    border-radius: 50px;
+
+   
+    
+}
+a:link{
+    padding-left: 250px;
+    text-decoration: none;
+  
+}
+.y{
+    border-bottom: 2px solid rgb(35, 29, 29);
+    margin: 10px 100px;
+    border-radius: 10px;
+ }
+ 
+ .y input{
+     height: 50px;
+     width: 350px;
+     background: transparent;
+     border: none;
+     outline: none;
+ 
+ }
+
+ 
+
+ .y label{
+
+    margin-left: -310px;
+ }
+
+
+ .z{
+    border-bottom: 2px solid rgb(35, 29, 29);
+    margin: 10px 100px;
+    border-radius: 10px;
+ }
+ 
+ .z input{
+     height: 50px;
+     width: 350px;
+     background: transparent;
+     border: none;
+     outline: none;
+ 
+ }
+
+ .z label{
+
+    margin-left: -310px;
+ }
+
+
+ button{
+    width: 50%;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgba(70, 70, 192, 0.694);
+    color: white;
+ }
+
+ .fa-facebook{
+    font-size: 40px;
+    margin-right: 10px;
+   color: blue;
+ }
+
+ .fa-square-twitter{
+
+    font-size: 40px;
+    margin-right: 10px;
+    color: blue;
+
+ }
+
+ .fa-google{
+    font-size: 40px;
+    color: blue;
+
+ }
+
+ .done{
+    margin-top: -10px;
+ }
+ 
+
+
+
+
+
+
+
